@@ -1,0 +1,13 @@
+{
+  "name": "typescript-node-js-basic-lactures",
+  "version": "1.0.0",
+  "description": "Revision of Lecture 7",
+  "types": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Kamran",
+  "license": "ISC"
+}
